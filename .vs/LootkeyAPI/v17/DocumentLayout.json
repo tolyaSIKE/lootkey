@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B15A6023-89F0-47BE-A0B1-200F6C310E7D}|LootkeyAPI.Tests\\LootkeyAPI.Tests.csproj|c:\\users\\evgen\\desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\lootkeyapi\\lootkeyapi.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15A6023-89F0-47BE-A0B1-200F6C310E7D}|LootkeyAPI.Tests\\LootkeyAPI.Tests.csproj|solutionrelative:lootkeyapi.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2547226-6DF1-4873-AACF-01B8177B75D3}|LootkeyAPI\\LootkeyAPI.csproj|c:\\users\\evgen\\desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\lootkeyapi\\lootkeyapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2547226-6DF1-4873-AACF-01B8177B75D3}|LootkeyAPI\\LootkeyAPI.csproj|solutionrelative:lootkeyapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B15A6023-89F0-47BE-A0B1-200F6C310E7D}|LootkeyAPI.Tests\\LootkeyAPI.Tests.csproj|c:\\users\\evgen\\desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\lootkeyapi\\lootkeyapi.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B15A6023-89F0-47BE-A0B1-200F6C310E7D}|LootkeyAPI.Tests\\LootkeyAPI.Tests.csproj|solutionrelative:lootkeyapi.tests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2547226-6DF1-4873-AACF-01B8177B75D3}|LootkeyAPI\\LootkeyAPI.csproj|c:\\users\\evgen\\desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\lootkeyapi\\lootkeyapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2547226-6DF1-4873-AACF-01B8177B75D3}|LootkeyAPI\\LootkeyAPI.csproj|solutionrelative:lootkeyapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2547226-6DF1-4873-AACF-01B8177B75D3}|LootkeyAPI\\LootkeyAPI.csproj|c:\\users\\evgen\\desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\lootkeyapi\\lootkeyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,37 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "LootkeyAPI\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "LootkeyAPI\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:20:52.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI\\Models\\Game.cs",
               "RelativeDocumentMoniker": "LootkeyAPI\\Models\\Game.cs",
               "ToolTip": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI\\Models\\Game.cs",
               "RelativeToolTip": "LootkeyAPI\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T14:12:23.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameTests.cs",
               "DocumentMoniker": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI.Tests\\GameTests.cs",
               "RelativeDocumentMoniker": "LootkeyAPI.Tests\\GameTests.cs",
               "ToolTip": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI.Tests\\GameTests.cs",
               "RelativeToolTip": "LootkeyAPI.Tests\\GameTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T13:40:07.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\evgen\\Desktop\\univer\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0444. \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\\u043B\u04404 \u0432\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0440\u0438\u043D\u0442\\LootkeyAPI\\LootkeyAPI\\Program.cs",
               "RelativeDocumentMoniker": "LootkeyAPI\\Program.cs",

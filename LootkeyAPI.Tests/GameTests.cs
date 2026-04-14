@@ -25,6 +25,7 @@ namespace LootkeyAPI.Tests
                     var scope = services.BuildServiceProvider().CreateScope();
                     var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
+                    context.Database.EnsureDeleted();
                     context.Database.EnsureCreated();
 
                     context.Games.Add(new Game
@@ -40,7 +41,7 @@ namespace LootkeyAPI.Tests
 
             _client = customFactory.CreateClient();
         }
-        
+
         [Fact]
         public async Task GetGames_ReturnsOkAndList()
         {

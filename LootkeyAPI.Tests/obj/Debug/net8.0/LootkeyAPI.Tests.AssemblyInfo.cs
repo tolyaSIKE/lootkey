@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LootkeyAPI.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185d391c9da790495329d42f55858e7b03eabaab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8314713dbcb3b9edc3761f4fe01b561354665941")]
 [assembly: System.Reflection.AssemblyProductAttribute("LootkeyAPI.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LootkeyAPI.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
