@@ -239,6 +239,24 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.14": {
         "type": "package"
       },
+      "Microsoft.EntityFrameworkCore.InMemory/9.0.14": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.14",
+          "Microsoft.Extensions.Caching.Memory": "9.0.14",
+          "Microsoft.Extensions.Logging": "9.0.14"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/9.0.14": {
         "type": "package",
         "dependencies": {
@@ -3235,6 +3253,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.14",
+          "Microsoft.EntityFrameworkCore.InMemory": "9.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.14",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -3679,6 +3698,21 @@
         "docs/PACKAGE.md",
         "microsoft.entityframeworkcore.analyzers.9.0.14.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/9.0.14": {
+      "sha512": "nh2b12KZ9xm17PQGhc1Z6Wx8yTufaL0r1f3b4V4Jex+l04w4Ar4ldMGxkTuR46TmS0aJ618LsTaybEsv8jSWRw==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.inmemory/9.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.xml",
+        "microsoft.entityframeworkcore.inmemory.9.0.14.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/9.0.14": {
@@ -9663,6 +9697,7 @@
       "FluentAssertions >= 8.9.0",
       "LootkeyAPI >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Testing >= 8.0.25",
+      "Microsoft.EntityFrameworkCore.InMemory >= 9.0.14",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -9731,6 +9766,10 @@
           "Microsoft.AspNetCore.Mvc.Testing": {
             "target": "Package",
             "version": "[8.0.25, )"
+          },
+          "Microsoft.EntityFrameworkCore.InMemory": {
+            "target": "Package",
+            "version": "[9.0.14, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

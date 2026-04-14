@@ -473,3 +473,4 @@ C:\Users\evgen\Desktop\univer\6 семестр\проф. практика про
 C:\Users\evgen\Desktop\univer\6 семестр\проф. практика програмної інженерії\лр4 второй спринт\LootkeyAPI\LootkeyAPI.Tests\obj\Debug\net8.0\LootkeyAPI.Tests.pdb
 C:\Users\evgen\Desktop\univer\6 семестр\проф. практика програмної інженерії\лр4 второй спринт\LootkeyAPI\LootkeyAPI.Tests\obj\Debug\net8.0\LootkeyAPI.Tests.genruntimeconfig.cache
 C:\Users\evgen\Desktop\univer\6 семестр\проф. практика програмної інженерії\лр4 второй спринт\LootkeyAPI\LootkeyAPI.Tests\obj\Debug\net8.0\ref\LootkeyAPI.Tests.dll
+C:\Users\evgen\Desktop\univer\6 семестр\проф. практика програмної інженерії\лр4 второй спринт\LootkeyAPI\LootkeyAPI.Tests\obj\Debug\net8.0\LootkeyAPI.Tests.sourcelink.json

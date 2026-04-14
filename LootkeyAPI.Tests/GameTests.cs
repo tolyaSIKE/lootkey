@@ -2,7 +2,11 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
+using Microsoft.Extensions.DependencyInjection;
 using Xunit;
+using LootkeyAPI.Data;
+using LootkeyAPI.Models;
+using Microsoft.AspNetCore.Hosting;
 
 namespace LootkeyAPI.Tests
 {
@@ -12,9 +16,31 @@ namespace LootkeyAPI.Tests
 
         public GameTests(WebApplicationFactory<Program> factory)
         {
-            _client = factory.CreateClient();
-        }
+            var customFactory = factory.WithWebHostBuilder(builder =>
+            {
+                builder.UseEnvironment("Testing");
 
+                builder.ConfigureServices(services =>
+                {
+                    var scope = services.BuildServiceProvider().CreateScope();
+                    var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+
+                    context.Database.EnsureCreated();
+
+                    context.Games.Add(new Game
+                    {
+                        Id = 1,
+                        Title = "Test Game",
+                        Price = 10
+                    });
+
+                    context.SaveChanges();
+                });
+            });
+
+            _client = customFactory.CreateClient();
+        }
+        
         [Fact]
         public async Task GetGames_ReturnsOkAndList()
         {
